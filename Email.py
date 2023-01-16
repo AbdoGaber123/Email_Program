@@ -42,7 +42,7 @@ receiver ='jedeso9023@unicsite.com'        # the email receiving the message
 # then we write the subject and body of the email message
 subject = "Give a Look,Please"
 body = """ It would be an honour for us to give a simple
-look at our program sir. thank you.
+look at our program sir.thank you alot.
 """
 # Now package the Message using the EmailMessage()
 em_msg = EmailMessage()
