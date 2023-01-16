@@ -2,15 +2,12 @@
 this program is to send and receive emails using python
 
 ## Project Introdution
-"""
 You want your own python program to use your gamil account and send emails
 so you have the make this program has access to your gamil account and we
 can do this through generating a passwrod in your gamil account and giving 
 it the python program. will know to do this step by step. 
-"""
 
 ## Project Steps
-"""
 *** At first we have to go to gamil account and make some security processes 
     - we go to gmail and create 2 factor authentication
         $ go to Gmail Account $ select Security
@@ -26,4 +23,3 @@ it the python program. will know to do this step by step.
 *** secondly we bulid a program that sends the emails
     - we use email module(bulit-in module) to build our program
     - we use alot of functions from this module 
-"""
