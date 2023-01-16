@@ -30,7 +30,7 @@ it the python program. will know to do this step by step.
 #***********************************************************************************************#
 
 # We import some bulit-in packge and we explain how to use them
-from email.message import EmailMessage     # this package is working the sender and reciever
+from email.message import EmailMessage     # this object help you to create the message and selecting sender and receicer
 import ssl                                 # this package add some encyrption to the email message
 import smtplib                             # this package transfers the message thorugh the internet
 
